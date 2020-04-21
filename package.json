@@ -1,13 +1,21 @@
 {
   "name": "xdm",
+<<<<<<< HEAD
   "version": "1.9.5",
+=======
+  "version": "1.9.3",
+>>>>>>> Removing Essa Files
   "description": "Experience Data Models",
   "main": "",
   "config": {
     "aem_user": "packageUser",
     "aem_password": "override me securely",
     "markdown-importer-version": "0.0.4",
+<<<<<<< HEAD
     "schemas": 273
+=======
+    "schemas": 272
+>>>>>>> Removing Essa Files
   },
   "scripts": {
     "clean": "rm -rf docs/reference",
